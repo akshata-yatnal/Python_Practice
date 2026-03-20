@@ -1,0 +1,5 @@
+a=int(input('enter a 1st value to operate:'))
+b=int(input('enter a 2nd value to operate:'))
+print('the sum is:',a+b)
+print('the difference is:',a-b)
+print('the product is:',a*b)
