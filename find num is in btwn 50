@@ -1,0 +1,9 @@
+
+n=int(input('enter a number:'))
+if n>=1 and n<=50:
+    print('the number',n,'is in between 1 to 50')
+    print(n)
+else:
+    print('the number',n,'is not in between 1 to 50')
+    
+      

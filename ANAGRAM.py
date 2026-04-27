@@ -1,0 +1,10 @@
+# WAP TO CHECK THE GIVEN STRING ARE 'ANAGRAMS OR NOT IS ANAGRAM PRINT 'YES' OTHERWISE 'NO':
+ #ANAGRAM:A WORD,PHRASE OR NAME FORMED BY REARRANGING THE LETTERS OF ANOTHER SUCH AS SPAR,FORMED FROM RASP, ART=RAT,SILENT=LISTEN:
+
+
+s1=input("enter a string:")
+s2=input("enter a string:")
+if sorted(s1)==sorted(s2):
+    print('YES')
+else:
+    print("NO")
