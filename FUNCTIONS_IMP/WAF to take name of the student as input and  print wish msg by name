@@ -1,0 +1,6 @@
+def wish(name):
+    print("hello",name,"good evening")
+wish('giri')
+wish('le')
+wish('ri mdm')
+
