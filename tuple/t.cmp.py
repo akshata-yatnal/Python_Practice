@@ -1,0 +1,6 @@
+t1=(10,20,30)
+t1=(40,50,60)
+t3=(10,20,30)
+print(cmp(t1,t2))
+print(cmp(t1,t3))
+print(cmp(t2,t3))
